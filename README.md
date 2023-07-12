@@ -1,2 +1,2 @@
-# Projects
-Includes basic Data Analysis Projects
+# Data Analysis Portfolio
+Basic Data Analysis Projects
